@@ -1,0 +1,14 @@
+langchain
+wikipedia
+langchain-community
+python-dotenv
+pydantic
+duckduckgo-search
+langchain-google-genai
+google-generativeai
+SpeechRecognition
+pyttsx3
+yfinance
+nltk
+chromadb
+sentence-transformers
